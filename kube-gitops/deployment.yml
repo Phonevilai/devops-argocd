@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
       - name: pun-api
-        image: ghcr.io/phonevilai/devlop-go-example:1b719f744d2ca0ec3855f982d68ff59800aea844
+        image: ghcr.io/phonevilai/devlop-go-example:5cfced5fd7ad9c1b2e96bbb84121c83388fb91f1
         imagePullPolicy: Always
         ports:
         - containerPort: 8080
